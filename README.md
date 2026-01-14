@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Alan Vieira!
+## 👋 Olá, eu sou Alan Vieira!
 
 💻 **Analista de Dados** com experiência no desenvolvimento de painéis de indicadores e análises preditivas utilizando **Power BI**, apoiando áreas de **Gestão, Planejamento, Diligenciamento de Contratações** e **Suporte à Disponibilização de Serviços Submarinos (SUB/SSUB/DSUB)**.
 
@@ -44,6 +44,4 @@ Perfil **analítico**, orientado à **melhoria contínua** e à **qualidade dos 
 - 💼 LinkedIn: *[(adicione seu link aqui)](https://www.linkedin.com/in/alan-vieira-analyst/)*  
 - 📧 Email: *ddavieiraalan@gmail.com*
 
-  Obrigado por visitar meu perfil!
-
-🚀 Fique à vontade para explorar meus repositórios e trocar ideias!
+🚀   Obrigado por visitar meu perfil. Fique à vontade para explorar meus repositórios e trocar ideias!
